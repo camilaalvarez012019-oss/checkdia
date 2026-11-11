@@ -1,0 +1,6 @@
+{
+  "name": "Impresos El Día - Plataforma de Auditoría Interna SGC",
+  "description": "Sistema integral de gestión de auditorías internas para Impresos El Día bajo normas ISO y estándares de calidad, con simulación interactiva con IA y formatos oficiales FO-MCO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
